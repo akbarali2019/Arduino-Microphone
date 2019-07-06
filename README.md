@@ -1,7 +1,9 @@
 # Arduino-Microphone
 This is our small project on Arduino Uno micro-controller board.
 
-
+# Used programming language
+    C++
+    
 # Needed Materials
     Arduino
     5 LEDs
