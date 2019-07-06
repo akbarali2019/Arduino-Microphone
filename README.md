@@ -21,4 +21,4 @@ In order to run the project, you should turn on the music around microphones. Th
 
 
 # The ready Project
-![image](https://user-images.githubusercontent.com/52565814/60755424-7c89ff80-a02a-11e9-8abb-57cfdcb51d5e.png)
+![image](https://user-images.githubusercontent.com/52565814/60755476-3f723d00-a02b-11e9-8fec-063657a39801.png)
