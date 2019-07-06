@@ -1,9 +1,10 @@
 # Arduino-Microphone
 This is our small project on Arduino Uno micro-controller board.
 
+The only thing you need to know is mainly Hardware and Software Knowledge implemnetations. 
+
 # Used programming language
     C++
-    HTML
     
 # Needed Materials
     Arduino
