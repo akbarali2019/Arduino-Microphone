@@ -17,3 +17,8 @@ In order to run the project, you should turn on the music around microphones. Th
 
 # The view of the Arduino Board
 ![image](https://user-images.githubusercontent.com/52565814/60755393-1309f100-a02a-11e9-8fbc-90ba95da0d9a.png)
+
+
+
+# The ready Project
+![image](https://user-images.githubusercontent.com/52565814/60755424-7c89ff80-a02a-11e9-8abb-57cfdcb51d5e.png)
