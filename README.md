@@ -3,6 +3,7 @@ This is our small project on Arduino Uno micro-controller board.
 
 # Used programming language
     C++
+    HTML
     
 # Needed Materials
     Arduino
